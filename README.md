@@ -1,9 +1,8 @@
 ### Yahallose 👋
-#### just a person who is interested in 2d world
 
 [![Github](https://img.shields.io/github/followers/query-gani?label=Follow&style=social)](https://github.com/query-gani)
 <img align="right" alt="GIF" height="120px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
-
+> just a person who is interested in 2d world
 <details>
 <summary>About Me</summary>
 
