@@ -11,7 +11,6 @@
 - 🔭 I’m currently working on [shinoa-rest api](https://shinigami-rest.herokuapp.com)
 - 🌱 I’m currently learning nodejs
 - 👯 I’m currently collab with [Hanif Senpai ^_^](https://github.com/hansputera)
-- ⚡ Fun fact: I like write "v:"
 
 </details>
 
