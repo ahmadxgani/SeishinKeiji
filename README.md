@@ -7,7 +7,7 @@
 <summary>About Me</summary>
 
 - 🧑‍🤝‍🧑 My best friends is [Sensei arya senpai](https://github.com/aryawpratama) :v
-- 🔭 I’m currently working on [shinoa-rest api](https://shinigami-rest.herokuapp.com)
+- 🔭 I’m currently working on [shinigami-rest api](https://shinigami-rest.herokuapp.com)
 - 🌱 I’m currently learning nodejs
 - 👯 I’m currently collab with [Hanif Senpai ^_^](https://github.com/hansputera)
 
