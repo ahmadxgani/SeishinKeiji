@@ -30,7 +30,7 @@
 </details>
 
 <details>
-<summary>Pinned repository</summary>
+<summary>My Project</summary>
 <br/>
   
 <a href="https://github.com/QUERY-GANI/shinigami-nest">
