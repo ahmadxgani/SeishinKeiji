@@ -1,15 +1,11 @@
 ### Hello world 👋
 
-[![Github](https://img.shields.io/github/followers/query-gani?label=Follow&style=social)](https://github.com/query-gani)
-<img align="right" alt="GIF" height="120px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 > Where is 2d world? can you tell me
 <details>
 <summary>About Me</summary>
 
 - 🧑‍🤝‍🧑 My best friends is [Sensei arya senpai](https://github.com/aryawpratama) :v
-- 🔭 I’m currently working on [shinigami-rest api](https://shinigami-rest.herokuapp.com)
-- 🌱 I’m currently learning nodejs
-- 👯 I’m currently collab with [Hanif Senpai ^_^](https://github.com/hansputera)
+- 🌱 I’m currently learning javascript & typescript
 
 </details>
 
